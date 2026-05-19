@@ -1,5 +1,9 @@
 # ZoomCharts-FP20-ANALYTICS-CHALLENGE-37--- Procurement-Analytics 
 ## Data Description 
+Procurement teams keep organizations running by purchasing the goods and services needed for daily operations. In reality, rising costs, supplier risk, delivery delays, and off-contract spending can create budget pressure and inefficiency. This analysis helps leaders understand spending patterns, monitor supplier performance, track savings, and identify compliance issues. With better visibility into procurement data, organizations can reduce risk, improve efficiency, and make more informed business decisions.
+
+In this challenge, participants will work with a procurement dataset covering purchase order activity from 2022 to 2024. The dataset includes 5,200 procurement records and brings together information across purchasing transactions, suppliers, contracts, delivery performance, invoices, payments, budgets, and savings.
+
 ![](https://github.com/Ebenezer080925/ZoomCharts-FP20-ANALYTICS-CHALLENGE-37---Procurement-Analytics-/blob/main/Screenshot%202026-05-19%20121759.png)
 ![](https://github.com/Ebenezer080925/ZoomCharts-FP20-ANALYTICS-CHALLENGE-37---Procurement-Analytics-/blob/main/Screenshot%202026-05-19%20121822.png)
 
