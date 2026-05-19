@@ -1,4 +1,7 @@
-ZoomCharts-FP20-ANALYTICS-CHALLENGE-37--- Procurement-Analytics 
+# ZoomCharts-FP20-ANALYTICS-CHALLENGE-37--- Procurement-Analytics 
+## Data Description 
+![](https://github.com/Ebenezer080925/ZoomCharts-FP20-ANALYTICS-CHALLENGE-37---Procurement-Analytics-/blob/main/Screenshot%202026-05-19%20121759.png)
+![](https://github.com/Ebenezer080925/ZoomCharts-FP20-ANALYTICS-CHALLENGE-37---Procurement-Analytics-/blob/main/Screenshot%202026-05-19%20121822.png)
 
 
 ## SECTION 1: MACRO-FINANCIAL OBSERVATIONS & BUDGET EFFICIENCY
